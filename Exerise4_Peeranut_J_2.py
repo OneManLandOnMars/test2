@@ -11,7 +11,7 @@ print("Computer Programming", Com_Programing, "Marks")
 print("--------")
 print("Thank you")
 print("See you next year")
-
+print("School")
 
 
 
