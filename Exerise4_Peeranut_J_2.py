@@ -8,10 +8,7 @@ print("English", English, "Marks")
 print("General Business", General_Business, "marks")
 print("Introduction to Computer Systems", Intro_Com_system, "Marks")
 print("Computer Programming", Com_Programing, "Marks")
-print("--------")
-print("Thank you")
-print("See you next year")
-print("School")
+
 
 
 
